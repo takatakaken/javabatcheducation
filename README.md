@@ -1,0 +1,2 @@
+# javabatcheducation
+JavaのBatch処理を使ったオブジェクト指向教育用
